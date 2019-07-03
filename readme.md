@@ -11,8 +11,8 @@
 - 1 big egg
 - 1 Lemon
 - Food Coloring (green, red, yellow)
-- Marcipane
-- 200 g Sugar for the icing
+- Marzipan
+- 200 g Icing Sugar for the icing
 
 ## Cookie Cutter
 
@@ -32,7 +32,8 @@ This piece has to be formed into a rough "Q" shape. With my shape, I forgot to f
 ![Mixed flour](pic03_flour.jpg "Mixed flour")
 
 Mix the flour, sugar, butter, vanilla suger, grated lemon peel, the baking powder, the egg and some green food coloring together.
-Do not nead it for too long for the butter not to get too warm.
+
+Do not knead it for too long or the butter will get too warm.
 
 ![Kneading the dough](pic04_nead.gif "Kneading the dough")
 
@@ -42,7 +43,7 @@ When the dough has cooled down enough, you can roll it out and cut "Q" formed pi
 
 ![Cutting the "Q"s](pic07_cutting.jpg "Cutting the "Q"s")
 
-To form a slightly lowered ring inside the cookie, you can use a bottle cap:
+To form a slightly lower ring inside the cookie, you can use a bottle cap:
 
 ![Imprinting](pic11_cap.jpg "Imprinting")
 
