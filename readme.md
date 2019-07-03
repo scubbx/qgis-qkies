@@ -41,7 +41,7 @@ After that, place the dough in the refridgerator for about 30 minutes.
 
 When the dough has cooled down enough, you can roll it out and cut "Q" formed pieces by using our Qkie cutter from it.
 
-![Cutting the "Q"s](pic07_cutting.jpg "Cutting the "Q"s")
+![Cutting the "Q"s](pic07_cutting.jpg "Cutting the \"Q\"s")
 
 To form a slightly lower ring inside the cookie, you can use a bottle cap:
 
